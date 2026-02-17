@@ -1,5 +1,6 @@
 Hi, I'm Ksenia 
 
+Ukrainian developer
 Software Systems Development student at SETU.
 
 Currently building:
