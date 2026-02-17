@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm Ksenia 
 
-<!--
-**aksarinaoksana/aksarinaoksana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Systems Development student at SETU.
 
-Here are some ideas to get you started:
+Currently building:
+- 🌐 Portfolio website
+- 🎮 Small 2D game prototype
+- 🧊 Learning Blender for future 3D scenes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+HTML • CSS • JavaScript • Git • Java (learning) • Python (learning)
+
+## Links
+LinkedIn: https://www.linkedin.com/in/oksanaaksarina/
